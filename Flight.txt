@@ -1,0 +1,19 @@
+1. Indian Airways: (Lahore,Madinah) Tue,Fri,Sat @3:00PM
+
+2. Indian Airways: (Mumbai,Dubai) Mon,Tue,Fri @2:00PM
+
+3. Indian Airways: (Mumbai,New York) Mon,Fri @7:00PM
+
+4. Indian Airways: (Delhi,Istanbul) Sat,Sun @12:00PM
+
+5. Indian Airways: (Mumbai,Delhi) Mon,Wed,Fri @6:00AM
+
+6. Indian Airways: (Chennai,Brisbane) Wed,Fri @11:30AM
+
+7. Indian Airways: (Hyderabad,London) Wed,Tue,Fri @10:00PM
+
+8. Indian Airways: (Mumbai,Makkah) Mon,Tue,Fri @5:00PM
+
+9. Indian Airways: (Delhi,Mumbai) Tue,Fri @4:00PM
+
+10. Indian Airways: (Bangalore,Birmingham) Thurs,Fri @8:00PM

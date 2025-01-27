@@ -1,0 +1,19 @@
+1. Air India: (Delhi,Madinah) 54000
+
+2. IndiGo: (Mumbai,Dubai) 50000
+
+3. IndiGo: (Mumbai,New York) 100000
+
+4. SpiceJet: (Delhi,Istanbul) 65000
+
+5. Air India: (Mumbai,Delhi) 20000
+
+6. GoAir: (Chennai,Brisbane) 75000
+
+7. Air India: (Hyderabad,London) 55000
+
+8. SpiceJet: (Mumbai,Makkah) 54000
+
+9. Air India: (Delhi,Mumbai) 25000
+
+10. IndiGo: (Bangalore,Birmingham) 70000
